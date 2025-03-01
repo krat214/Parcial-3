@@ -30,7 +30,7 @@ Parcial 3/
 ### 📌 Instrucciones
 1. **Clonar el repositorio**
    ```sh
-   git clone [https://github.com/krat214/Parcial-3/](https://github.com/krat214/Parcial-3.git)
+   git clone https://github.com/krat214/Parcial-3.git
    cd Parcial3
    ```
 2. **Compilar y ejecutar**
